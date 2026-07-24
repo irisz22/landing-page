@@ -69,3 +69,32 @@ button {
     flex-grow: 0;
 }
 
+.sec-information {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    padding: 24px 36px;
+    justify-content: center;
+}
+
+.information {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+    text-align: center;
+}
+
+.gallery {
+    display: flex;
+    gap: 20px;
+}
+
+.caption-img {
+    display: flex;
+    flex-direction: column;
+    color: gray;
+    align-items: center;
+    text-align: center;
+    gap: 4px;
+}
+
