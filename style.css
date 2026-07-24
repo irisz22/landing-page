@@ -98,3 +98,27 @@ button {
     gap: 4px;
 }
 
+
+.quote-container {
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    height: 300px;
+    justify-content: center;
+    padding: 0 48px;
+}
+
+.quote {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 300;
+    font-style: italic;
+    flex-wrap: wrap;
+    align-self: center;
+}
+
+.quote-author {
+    font-weight: 600;
+    font-size: 18px;
+    align-self: flex-end;
+}
