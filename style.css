@@ -166,3 +166,15 @@ button {
     font-size: 14px;
     color: lightgray
 }
+
+.footer {
+    background-color: #1F2937;
+    padding: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#copy-text {
+    color: rgb(179, 177, 177);
+}
