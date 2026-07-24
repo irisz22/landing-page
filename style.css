@@ -74,7 +74,7 @@ button {
     display: flex;
     flex-direction: column;
     gap: 24px;
-    padding: 24px 36px;
+    padding: 48px 36px;
     justify-content: center;
 }
 
@@ -107,6 +107,7 @@ button {
     height: 300px;
     justify-content: center;
     padding: 0 48px;
+    gap: 12px;
 }
 
 .quote {
